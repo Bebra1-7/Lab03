@@ -32,3 +32,4 @@ int attempts = 0;
 Console.WriteLine($"Num {++attempts}");
 Console.WriteLine($"Num {++attempts}");
 Console.WriteLine($"Всего попыток: {attempts}");
+
